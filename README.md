@@ -19,8 +19,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HubiSm4&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true" />
 </div>
 
-<div align='center'> 
-  <p align="center">
+<div align='right'> 
+  <p align="right">
     <a href="https://skillicons.dev">
       <img src='https://skillicons.dev/icons?i=java,idea' />
     </a>
