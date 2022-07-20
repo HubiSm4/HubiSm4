@@ -19,7 +19,7 @@
 </div>
 
 <div align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?width=500&lines=Hi+%F0%9F%91%8B%2C+I+am+HubiSm4%2C;I'm+learning+Java+%F0%9F%91%A5%2C;Contact+me+in+discord+%F0%9F%92%99" />  
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&multiline=true&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C+I+am+HubiSm4%2C;I'm+learning+Java+%F0%9F%98%83%2C;Contact+me+in+discord+%F0%9F%92%99" />  
 </div>
 
 <div align='center'>
