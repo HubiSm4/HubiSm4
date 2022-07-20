@@ -11,6 +11,10 @@
 <hr />
 
 <div align='center'>
+<img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&lines=Hi+%F0%9F%91%8B%2C+I+am+HubiSm4%2C;I'm+learning+Java+%F0%9F%91%A5.;Add+me+on+discord%3A+HubiSm4%230001.++%F0%9F%92%99)](https://git.io/typing-svg)" />
+</div>
+
+<div align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=HubiSm4&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true" />
 </div>
 
