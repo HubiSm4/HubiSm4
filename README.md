@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @HubiSm4
-- 🌱 I’m currently learning Java
-- 📫 HubiSm4#0001, slowpvp.pl/dc
-
 <div align='center'>
-  <h1>HubiSm4 🐶</h1>
+  <h1>@HubiSm4 🐶</h1>
   
   <p align="center">
     <a href="https://skillicons.dev">
