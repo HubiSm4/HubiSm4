@@ -16,7 +16,7 @@
 <hr />
 
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=HubiSm4&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true" />
+<img src="[https://github-readme-stats.vercel.app/api?username=HubiSm4&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true](https://lanyard.cnrad.dev/api/514532140843663371)](https://discord.com/users/514532140843663371)" />
 </div>
 
 <div align='center'>
