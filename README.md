@@ -19,7 +19,7 @@
 </div>
 
 <div align='center'>
-  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&lines=Hi+%F0%9F%91%8B%2C+I+am+HubiSm4%2C;I'm+learning+Java+%F0%9F%91%A5.;Add+me+on+discord%3A+HubiSm4%230001.++%F0%9F%92%99)](https://git.io/typing-svg)" />  
+  <img src="https://readme-typing-svg.herokuapp.com?width=500&lines=Hi+%F0%9F%91%8B%2C+I+am+HubiSm4%2C;I'm+learning+Java+%F0%9F%91%A5%2C;Contact+me+in+discord+%F0%9F%92%99" />  
 </div>
 
 <div align='center'>
