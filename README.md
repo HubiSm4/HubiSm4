@@ -26,19 +26,3 @@
 <div align='right'>
 <img alt="PROFILE VIEWS" src="https://komarev.com/ghpvc/?username=HubiSm4&style=flat&color=2aabe8">
 </div>
-
-<a href="https://discord.com/channels/@me/887340149145468948">
-<img align="left" alt="Dani's Discord" width="40px" src="https://img.icons8.com/color/48/000000/discord-logo.png" />
-</a>
-<a href="https://www.whatsapp.com/android/">
-<img align="left" alt="In whatsapp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp" />
-</a>
-<a href="https://www.instagram.com/invites/contact/?i=o3xq4sex984c&utm_content=j9nnxhv">
-<img align="left" alt="In instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-</a>
-<a href="https://www.facebook.com/daniel.jebarson.9">
-<img align="left" alt="In facebook" width="40px" src="https://img.icons8.com/color/48/000000/facebook" />
-</a>
-<a href="https://github.com/daniel-jebarson">
-<img align="left" alt="In github" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
-</a>
