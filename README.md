@@ -4,7 +4,7 @@
 </div>
 
 <div align='center'>
-  <img src="https://lanyard.cnrad.dev/api/514532140843663371?bg=333333&borderRadius=10px" />  
+  <img src="https://lanyard.cnrad.dev/api/514532140843663371?bg=1f1f1f&borderRadius=10px" />  
 </div>
 
 <div align='center'>
