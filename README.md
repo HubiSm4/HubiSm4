@@ -7,8 +7,8 @@
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src='https://skillicons.dev/icons?i=java,discord,bots' />
-      <img src='https://skillicons.dev/icons?i=idea,visualstudio' />
+      <img src='https://skillicons.dev/icons?i=java,bots' />
+      <img src='https://skillicons.dev/icons?i=idea,visualstudiocode' />
     </a>
   </p>
 </div>
