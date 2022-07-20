@@ -21,3 +21,7 @@
 <div align='center'>
   <img src="https://lanyard.cnrad.dev/api/514532140843663371?bg=333333&borderRadius=10px" />  
 </div>
+
+<div align='center'>
+<img alt="PROFILE VIEWS" src="https://komarev.com/ghpvc/?username=HubiSm4&style=for-the-badge&color=222222">
+</div>
