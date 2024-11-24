@@ -1,15 +1,21 @@
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HubiSm4&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&title_color=2aabe8" />
-</div>
-
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=HubiSm4&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=36BCF7FF&show_icons=true&title_color=2aabe8" />
-</div>
-
-<div align='right'> 
-  <p align="right">
+<div align='left'> 
+  <p align="left">
     <a href="https://skillicons.dev">
-      <img src='https://skillicons.dev/icons?i=java,idea' />
+      <img src='https://skillicons.dev/icons?i=java,bots,mongodb,mysql' />
+    </a>
+  </p>
+</div>
+<div align='left'> 
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src='https://skillicons.dev/icons?i=html,css,js,php,' />
+    </a>
+  </p>
+</div>
+<div align='left'> 
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src='https://skillicons.dev/icons?i=idea,vscode' />
     </a>
   </p>
 </div>
