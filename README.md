@@ -1,4 +1,6 @@
-
+<style>
+  display: flex;
+</style>
 <div align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HubiSm4&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&title_color=2aabe8" />
 </div>
