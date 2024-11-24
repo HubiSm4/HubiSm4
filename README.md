@@ -1,7 +1,7 @@
 <div align='center'> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src='https://skillicons.dev/icons?i=java,bots,mongodb,mysql' />
+      <img src='https://skillicons.dev/icons?i=java,py,discord,mongodb,mysql' />
     </a>
   </p>
     <p align="center">
