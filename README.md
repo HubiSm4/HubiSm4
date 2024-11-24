@@ -1,15 +1,15 @@
 <div align='center'> 
-  <p align="left">
+  <p align="center">
     <a href="https://skillicons.dev">
       <img src='https://skillicons.dev/icons?i=java,bots,mongodb,mysql' />
     </a>
   </p>
-    <p align="left">
+    <p align="center">
     <a href="https://skillicons.dev">
       <img src='https://skillicons.dev/icons?i=html,css,js,php,' />
     </a>
   </p>
-    <p align="left">
+    <p align="center">
     <a href="https://skillicons.dev">
       <img src='https://skillicons.dev/icons?i=idea,vscode' />
     </a>
